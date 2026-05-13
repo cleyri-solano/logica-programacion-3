@@ -1,6 +1,6 @@
 # Calculadora de Factorial
 
-Ejercicio de Lógica de Programación 3 — Generation México
+Ejercicio de Lógica de Programación 3 - Generation México
 
 ## Descripción
 
